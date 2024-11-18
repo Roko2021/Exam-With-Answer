@@ -1,0 +1,105 @@
+*{
+    text-align: right;
+    
+}
+.nice{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.free{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.free2{
+    width: 39%;
+}
+.free3{
+    width: 59%;
+}
+.quest{
+    text-decoration: underline;
+}
+.quest1{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.quest1:hover{
+    background-color: red;
+}
+.quest2{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.quest2:hover{
+    background-color: red;
+}
+.quest3{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.quest3:hover{
+    background-color: red;
+}
+.quest4{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.quest4:hover{
+    background-color: red;
+}
+.quest5{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.quest5:hover{
+    background-color: red;
+}
+.quest6{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.quest6:hover{
+    background-color: red;
+}
+.answer{
+    width: 49%;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: green;
+}
+.hen{
+    color: red;
+}
+.place{
+    border: 0;
+    padding: 4px;
+    width: 20%;
+}
+.choose{
+    display: flex;
+    justify-content: space-between;
+}
+.choose1{
+    width: 69%;
+}
+.choose2{
+    width: 39%;
+}
+.into{
+    border: 0;
+    width: 10%;
+}
+.final{
+    text-align: center;
+}
+#nateg{
+    text-align: center;
+}
